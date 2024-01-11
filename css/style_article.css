@@ -102,7 +102,7 @@ main{
   height: 5477px; 
   padding: 0 auto;
   margin: 0 auto;
-  background: url(/img/article/fon-sb.svg) no-repeat;
+  background: url(../img/article/fon-sb.svg) no-repeat;
   background-position: 155% 45%;
 }
 
@@ -207,7 +207,7 @@ top: 0.3em;
 .quote__p{
   margin: 0;
   padding: 16px 0;
-  background: url(/img/article/quote.svg) no-repeat;
+  background: url(../img/article/quote.svg) no-repeat;
   font-style: italic;
   line-height: 24px;
 }
@@ -229,7 +229,7 @@ padding: 0;
 
 .section-1__li, .section-2__li{
   padding-left: 2rem;
-  background-image: url(/img/article/point-2.svg);
+  background-image: url(../img/article/point-2.svg);
   background-repeat: no-repeat;
   background-position: 0 20%;
   padding-top: 16px;
@@ -251,7 +251,7 @@ padding: 0;
 }
 
 .section-1__p{
-  background: url(/img/article/fon-main.svg) no-repeat 50%;
+  background: url(../img/article/fon-main.svg) no-repeat 50%;
   padding: 24px 104px 48px 102px;
 }
 
@@ -412,7 +412,7 @@ padding: 0;
 }
 
 .asaide__2__tegs{
-background: url(/img/article/sb_2.png) no-repeat 50% 50%;
+background: url(../img/article/sb_2.png) no-repeat 50% 50%;
 height: 125px;
 }
 
@@ -491,7 +491,7 @@ height: 285px;
   line-height: 20px;
 }
 .asaide__2__text-li{
-  background-image: url(/img/article/point-2.svg);
+  background-image: url(../img/article/point-2.svg);
   background-repeat: no-repeat;
   background-position: 0 0;
   padding-left: 17px;
@@ -519,7 +519,7 @@ height: 285px;
   font-style: normal;
   font-weight: 700;
   line-height: 40px;
-  background: url(/img/article/asaide__3.svg) no-repeat ;
+  background: url(../img/article/asaide__3.svg) no-repeat ;
 }
 
 .asaide__3__h2{
@@ -539,7 +539,7 @@ height: 285px;
   padding: 24px;
   border-radius: 16px;
   border: 1px solid #DEDEDE; 
-  background: url(/img/article/sb_4.png) no-repeat 140% 120%; 
+  background: url(../img/article/sb_4.png) no-repeat 140% 120%; 
   margin-left: auto;
   margin-right: 0;
   margin-top: 24px;
@@ -597,14 +597,14 @@ height: 285px;
   height: 510px;
   padding: 0 auto;
   margin: 0 auto;
-  background: url(/img/article/fon-footer.svg) no-repeat 0 100%;
+  background: url(../img/article/fon-footer.svg) no-repeat 0 100%;
 }
 
 .main__respond-div{
   width: 1200px;
   height: 510px; 
   margin: 0 auto;
-  background: url(/img/article/respond.png) no-repeat 100% 40%;
+  background: url(../img/article/respond.png) no-repeat 100% 40%;
 }
 
 .main__respond__hr{
@@ -625,7 +625,7 @@ height: 285px;
 }
 
 .main__respond-fon{
-  background: url(/img/article/fon-respond.svg) no-repeat 115% 40% ;
+  background: url(../img/article/fon-respond.svg) no-repeat 115% 40% ;
 }
 
 .main__respond__button-a{
@@ -930,7 +930,7 @@ height: 285px;
   }
 
   .asaide__2__tegs{
-    background: url(/img/article/sb_2.png) no-repeat 50% 100%;
+    background: url(../img/article/sb_2.png) no-repeat 50% 100%;
     height: 120px;
   }
 
@@ -969,7 +969,7 @@ height: 285px;
     padding: 18px;
     border-radius: 16px;
     border: 1px solid #DEDEDE; 
-    background: url(/img/article/sb_4.1.png) no-repeat 135% 125%; 
+    background: url(../img/article/sb_4.1.png) no-repeat 135% 125%; 
     margin-left: auto;
     margin-right: 0;
     margin-top: 24px;
@@ -1175,7 +1175,7 @@ padding-right: 48px;
     padding: 18px;
     border-radius: 16px;
     border: 1px solid #DEDEDE; 
-    background: url(/img/article/sb_4.png) no-repeat 90% 145%;
+    background: url(../img/article/sb_4.png) no-repeat 90% 145%;
   } 
 
   .asaide__4__h3, .asaide__4__p-2 {
@@ -1556,7 +1556,7 @@ display: contents;
 
   .asaide__4{
     width: 250px;
-    background: url(/img/article/sb_4.png) no-repeat 120% 145%;
+    background: url(../img/article/sb_4.png) no-repeat 120% 145%;
   }
 
   /*----------*/
