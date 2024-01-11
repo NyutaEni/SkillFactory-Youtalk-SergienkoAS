@@ -3,7 +3,7 @@
 body {
   margin: 0;
   font-family: "Montserrat", sans-serif;
-  background: url(/img/blog/fon.svg) no-repeat center;
+  background: url(img/blog/fon.svg) no-repeat center;
   background-position:  center 425px ;
   background-size: 100%;
 }
@@ -283,11 +283,11 @@ border: 2px solid #C1C5CD;
 }
 
 .cards__img1_1{
-  background: url(/img/blog/1_1.png) 30% 100% no-repeat;  
+  background: url(img/blog/1_1.png) 30% 100% no-repeat;  
 }
 
 .cards__img1_2{
-  background: url(/img/blog/1_2.png) 50% 50% no-repeat;
+  background: url(img/blog/1_2.png) 50% 50% no-repeat;
 }
 
 .cards__img2_1, .cards__img2_2,  .cards__img2_3, .cards__img3_1, .cards__img3_2, .cards__img3_3 {
@@ -297,26 +297,26 @@ border: 2px solid #C1C5CD;
 }
 
 .cards__img2_1{
-  background: url(/img/blog/2_1.png) 100% 0 /cover no-repeat; 
+  background: url(img/blog/2_1.png) 100% 0 /cover no-repeat; 
 }
 
 .cards__img2_2{
-  background: url(/img/blog/2_2.png) 50% 50% /cover no-repeat;
+  background: url(img/blog/2_2.png) 50% 50% /cover no-repeat;
 }
 
 .cards__img2_3{
-  background: url(/img/blog/2_3.png) 50% 50% /cover no-repeat;
+  background: url(img/blog/2_3.png) 50% 50% /cover no-repeat;
 }
 
 .cards__img3_1{
-  background: url(/img/blog/3_1.png) 50% 50% /cover no-repeat;
+  background: url(img/blog/3_1.png) 50% 50% /cover no-repeat;
 }
 
 .cards__img3_2{
-  background: url(/img/blog/3_2.png) 50% 50% /cover no-repeat;
+  background: url(img/blog/3_2.png) 50% 50% /cover no-repeat;
 }
 .cards__img3_3{
-  background: url(/img/blog/3_3.png) 50% 50% /cover no-repeat;
+  background: url(img/blog/3_3.png) 50% 50% /cover no-repeat;
 }
 
 .cards__article-text{
@@ -835,11 +835,11 @@ padding-right: 48px;
 }
 
 .cards__img1_1{
-  background: url(/img/blog/Rectangle\(1\).png) 30% 100% no-repeat;  
+  background: url(img/blog/Rectangle\(1\).png) 30% 100% no-repeat;  
 }
 
 .cards__img1_2{
-  background: url(/img/blog/Rectangle\(2\).png) 50% 50% no-repeat;
+  background: url(img/blog/Rectangle\(2\).png) 50% 50% no-repeat;
 }
 
 .cards__img1_1, .cards__img1_2{
@@ -1029,11 +1029,11 @@ padding-right: 48px;
 }
 
 .cards__img1_1{
-  background: url(/img/blog/1_1.png) 30% 100% no-repeat;  
+  background: url(img/blog/1_1.png) 30% 100% no-repeat;  
 }
 
 .cards__img1_2{
-  background: url(/img/blog/1_2.png) 50% 50% no-repeat;
+  background: url(img/blog/1_2.png) 50% 50% no-repeat;
 }
 
 .cards__img1_1, .cards__img1_2{
